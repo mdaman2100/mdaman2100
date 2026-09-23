@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdaman2100&label=Profile%20views&color=0e75b6&style=flat" alt="mdaman2100" /> </p>
 
 
-- 🔭 I’m a c++ programmer and a web development enthusiast.
+- 🔭 I’m a Java programmer and a web development enthusiast.
   
-- 🌱 I’m currently learning *DSA in C++ language*
+- 🌱 I’m currently learning *DSA in Java language*
 
 - 🤔 Exploring new technologies and developing software solutions.
 
